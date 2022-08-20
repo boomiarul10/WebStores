@@ -1,0 +1,2 @@
+# WebStores
+Sample CRUD app
